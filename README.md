@@ -3,6 +3,15 @@
 - We have also planned to use ai/ml to check the purity of food using its images
 - This is a part of our engineering design project
 
+
+**Credits**
+Instructors
+
+1.Dr.Manish Narwaria(narwaria@iitj.ac.in)
+
+2.Dr.Sucharita Dey(sdey@iitj.ac.in)
+
+
 **Team Members**
 
 Samarth Sudhirkumar Bhalerao
@@ -16,6 +25,8 @@ Basanti Meena
 Saurabh Kumar Meena
 
 Shreyas Vaidya
+
+
 
 - 📫 How to reach us -engdesign12e@gmail.com
 
