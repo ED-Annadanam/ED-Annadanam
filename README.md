@@ -1,10 +1,13 @@
 - 👋 Hi, We are @ED-Annadanam
+- We are all first year students of Indian Institute of Technology, Jodhpur 
 - We are making a website which will make food accesible to those in need with the help of those who have it in surplus
 - We have also planned to use ai/ml to check the purity of food using its images
 - This is a part of our engineering design project
 
 
 **Credits**
+
+
 Instructors
 
 1.Dr.Manish Narwaria(narwaria@iitj.ac.in)
