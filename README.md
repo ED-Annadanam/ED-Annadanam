@@ -3,7 +3,7 @@
 - We are making a website which will make food accesible to those in need with the help of those who have it in surplus
 - We have also planned to use ai/ml to check the purity of food using its images
 - This is a part of our engineering design project
-Website link - www.annadanam.herokuapp.com
+Website link - annadanam.herokuapp.com
 
 **Credits**
 
