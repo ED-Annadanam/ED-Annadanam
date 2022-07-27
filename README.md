@@ -30,7 +30,7 @@ Saurabh Kumar Meena
 Shreyas Vaidya
 
 
-**Special Thanks **
+**Special Thanks**
 
 Sajid U.Abir for improving ui of email_db
 
